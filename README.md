@@ -1,2 +1,2 @@
 # Arbol AVL
-AVL Tree made in ED2 Lab (NetBeans Project)
+AVL Tree examples made in ED2 Lab (NetBeans Project)
